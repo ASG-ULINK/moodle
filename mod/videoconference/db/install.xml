@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="mod/videoconference/db" VERSION="20110124" COMMENT="XMLDB file for Moodle mod/videoconference"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="videoconference" COMMENT="Table for videoconference plugin">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true" NEXT="course"/>
+        <FIELD NAME="course" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="false" COMMENT="Course videoconference activity belongs to" PREVIOUS="id" NEXT="name"/>
+        <FIELD NAME="name" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" COMMENT="name field for moodle instances" PREVIOUS="course" NEXT="intro"/>
+        <FIELD NAME="intro" TYPE="text" LENGTH="medium" NOTNULL="false" SEQUENCE="false" DEFAULT=" " COMMENT="General introduction of the newmodule activity" PREVIOUS="name" NEXT="introformat"/>
+        <FIELD NAME="introformat" TYPE="int" LENGTH="4" NOTNULL="true" UNSIGNED="true" DEFAULT="0" SEQUENCE="false" COMMENT="Format of the intro field (MOODLE, HTML, MARKDOWN...)" PREVIOUS="intro" NEXT="adminuserid"/>
+        <FIELD NAME="adminuserid" TYPE="int" LENGTH="4" NOTNULL="true" UNSIGNED="true" DEFAULT="0" SEQUENCE="false" COMMENT="Format of the intro field (MOODLE, HTML, MARKDOWN...)" PREVIOUS="introformat" NEXT="timecreated"/>
+        <FIELD NAME="timecreated" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="false" PREVIOUS="adminuserid" NEXT="timemodified"/>
+        <FIELD NAME="timemodified" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" DEFAULT="0" SEQUENCE="false" PREVIOUS="timecreated" NEXT="camwidth"/>
+        <FIELD NAME="camwidth" TYPE="int" LENGTH="8" NOTNULL="false" UNSIGNED="false" DEFAULT="320" SEQUENCE="false" PREVIOUS="timemodified" NEXT="camheight"/>
+        <FIELD NAME="camheight" TYPE="int" LENGTH="8" NOTNULL="false" UNSIGNED="false" DEFAULT="240" SEQUENCE="false" PREVIOUS="camwidth" NEXT="camfps"/>
+        <FIELD NAME="camfps" TYPE="int" LENGTH="4" NOTNULL="false" UNSIGNED="false" DEFAULT="15" SEQUENCE="false" PREVIOUS="camheight" NEXT="micrate"/>
+        <FIELD NAME="micrate" TYPE="int" LENGTH="4" NOTNULL="false" UNSIGNED="false" DEFAULT="22" SEQUENCE="false" PREVIOUS="camfps" NEXT="cambandwidth"/>
+        <FIELD NAME="cambandwidth" TYPE="int" LENGTH="8" NOTNULL="false" UNSIGNED="false" DEFAULT="1" SEQUENCE="false" PREVIOUS="micrate" NEXT="welcome"/>
+        <FIELD NAME="welcome" TYPE="text" LENGTH="medium" NOTNULL="false" SEQUENCE="false" PREVIOUS="cambandwidth" NEXT="background_url"/>
+        <FIELD NAME="background_url" TYPE="text" LENGTH="small" NOTNULL="false" SEQUENCE="false" PREVIOUS="welcome" NEXT="layoutcode"/>
+        <FIELD NAME="layoutcode" TYPE="text" LENGTH="medium" NOTNULL="false" SEQUENCE="false" PREVIOUS="background_url" NEXT="fillwindow"/>
+        <FIELD NAME="fillwindow" TYPE="char" LENGTH="1" NOTNULL="false" DEFAULT="0" SEQUENCE="false" PREVIOUS="layoutcode" NEXT="filterregex"/>
+        <FIELD NAME="filterregex" TYPE="text" LENGTH="small" NOTNULL="false" SEQUENCE="false" PREVIOUS="fillwindow" NEXT="filterreplace"/>
+        <FIELD NAME="filterreplace" TYPE="text" LENGTH="small" NOTNULL="false" SEQUENCE="false" PREVIOUS="filterregex" NEXT="tutorial"/>
+        <FIELD NAME="tutorial" TYPE="char" LENGTH="1" NOTNULL="false" UNSIGNED="false" DEFAULT="1" SEQUENCE="false" PREVIOUS="filterreplace" NEXT="cammaxbandwidth"/>
+        <FIELD NAME="cammaxbandwidth" TYPE="int" LENGTH="8" NOTNULL="false" UNSIGNED="false" DEFAULT="81920" SEQUENCE="false" PREVIOUS="tutorial" NEXT="open"/>
+        <FIELD NAME="open" TYPE="char" LENGTH="1" NOTNULL="false" UNSIGNED="false" DEFAULT="1" SEQUENCE="false" PREVIOUS="cammaxbandwidth"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="course" UNIQUE="false" FIELDS="course"/>
+      </INDEXES>
+    </TABLE>
+  </TABLES>
+</XMLDB>

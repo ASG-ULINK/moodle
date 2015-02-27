@@ -26,6 +26,4 @@ For more information, see the INSTALL DOCUMENTATION:
 
 Good luck and have fun!
 Martin Dougiamas, Lead Developer
-Test===Ubuntu***
 
-Test again

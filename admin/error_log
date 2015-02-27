@@ -1,0 +1,21 @@
+[17-Feb-2015 14:17:52 UTC] Default exception handler: Plugin "block_moodletxt" is installed in incorrect location "$CFG-&gt;dirroot/mod/moodletxt", expected location is "$CFG-&gt;dirroot/blocks/moodletxt" Debug: 
+Error code: detectedmisplacedplugin
+* line 611 of /lib/upgradelib.php: plugin_misplaced_exception thrown
+* line 420 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1626 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 434 of /admin/index.php: call to upgrade_noncore()
+
+[17-Feb-2015 14:18:37 UTC] Default exception handler: Plugin "block_moodletxt" is installed in incorrect location "$CFG-&gt;dirroot/mod/moodletxt", expected location is "$CFG-&gt;dirroot/blocks/moodletxt" Debug: 
+Error code: detectedmisplacedplugin
+* line 611 of /lib/upgradelib.php: plugin_misplaced_exception thrown
+* line 420 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1626 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 434 of /admin/index.php: call to upgrade_noncore()
+
+[17-Feb-2015 14:21:39 UTC] Default exception handler: Plugin "block_moodletxt" is installed in incorrect location "$CFG-&gt;dirroot/mod/moodletxt", expected location is "$CFG-&gt;dirroot/blocks/moodletxt" Debug: 
+Error code: detectedmisplacedplugin
+* line 611 of /lib/upgradelib.php: plugin_misplaced_exception thrown
+* line 420 of /lib/upgradelib.php: call to upgrade_plugins_modules()
+* line 1626 of /lib/upgradelib.php: call to upgrade_plugins()
+* line 434 of /admin/index.php: call to upgrade_noncore()
+
