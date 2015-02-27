@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="blocks/dashboard/db" VERSION="20130323" COMMENT="XMLDB file for Moodle blocks/dashboard"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="block_dashboard_cache" COMMENT="Stores footprints" NEXT="block_dashboard_cache_data">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true" NEXT="access"/>
+        <FIELD NAME="access" TYPE="char" LENGTH="10" NOTNULL="true" DEFAULT="moodle" SEQUENCE="false" PREVIOUS="id" NEXT="querykey"/>
+        <FIELD NAME="querykey" TYPE="char" LENGTH="32" NOTNULL="true" SEQUENCE="false" COMMENT="Stores hashcode for the query as an index key" PREVIOUS="access" NEXT="timereloaded"/>
+        <FIELD NAME="timereloaded" TYPE="char" LENGTH="32" NOTNULL="true" SEQUENCE="false" COMMENT="Stores hashcode for the query as an index key" PREVIOUS="querykey"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="access_ix" UNIQUE="false" FIELDS="access" NEXT="querykey_ix"/>
+        <INDEX NAME="querykey_ix" UNIQUE="false" FIELDS="querykey" COMMENT="Fast sort of query sets" PREVIOUS="access_ix"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="block_dashboard_cache_data" COMMENT="Default comment for dashboard, please edit me" PREVIOUS="block_dashboard_cache" NEXT="block_dashboard_geo_cache">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true" NEXT="access"/>
+        <FIELD NAME="access" TYPE="char" LENGTH="10" NOTNULL="true" DEFAULT="moodle" SEQUENCE="false" PREVIOUS="id" NEXT="querykey"/>
+        <FIELD NAME="querykey" TYPE="char" LENGTH="32" NOTNULL="true" SEQUENCE="false" COMMENT="Stores hashcode for the query as an index key" PREVIOUS="access" NEXT="recordid"/>
+        <FIELD NAME="recordid" TYPE="char" LENGTH="60" NOTNULL="true" SEQUENCE="false" PREVIOUS="querykey" NEXT="record"/>
+        <FIELD NAME="record" TYPE="text" LENGTH="small" NOTNULL="false" SEQUENCE="false" COMMENT="serialized data" PREVIOUS="recordid"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="access_ix" UNIQUE="false" FIELDS="access" NEXT="querykey_ix"/>
+        <INDEX NAME="querykey_ix" UNIQUE="false" FIELDS="querykey" COMMENT="Fast sort of query sets" PREVIOUS="access_ix"/>
+      </INDEXES>
+    </TABLE>
+    <TABLE NAME="block_dashboard_geo_cache" COMMENT="Caches geo localisation data" PREVIOUS="block_dashboard_cache_data" NEXT="block_dashboard_filter_cache">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true" NEXT="address"/>
+        <FIELD NAME="address" TYPE="char" LENGTH="255" NOTNULL="true" SEQUENCE="false" PREVIOUS="id" NEXT="regioncode"/>
+        <FIELD NAME="regioncode" TYPE="char" LENGTH="16" NOTNULL="false" SEQUENCE="false" COMMENT="The Geolocalisation region" PREVIOUS="address" NEXT="latlng"/>
+        <FIELD NAME="latlng" TYPE="char" LENGTH="20" NOTNULL="false" SEQUENCE="false" COMMENT="The lat,long data" PREVIOUS="regioncode"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+    <TABLE NAME="block_dashboard_filter_cache" COMMENT="Stores cache data for query filtering domains" PREVIOUS="block_dashboard_geo_cache">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" UNSIGNED="true" SEQUENCE="true" ENUM="false" NEXT="access"/>
+        <FIELD NAME="access" TYPE="char" LENGTH="10" NOTNULL="true" DEFAULT="moodle" SEQUENCE="false" ENUM="false" COMMENT="Database access type" PREVIOUS="id" NEXT="querykey"/>
+        <FIELD NAME="querykey" TYPE="char" LENGTH="32" NOTNULL="true" SEQUENCE="false" ENUM="false" COMMENT="Filter Query hascode" PREVIOUS="access" NEXT="filterrecord"/>
+        <FIELD NAME="filterrecord" TYPE="text" LENGTH="small" NOTNULL="false" SEQUENCE="false" ENUM="false" PREVIOUS="querykey" NEXT="timereloaded" />
+        <FIELD NAME="timereloaded" TYPE="int" LENGTH="11" UNSIGNED="true" NOTNULL="false" SEQUENCE="false" ENUM="false" PREVIOUS="filterrecord"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+      <INDEXES>
+        <INDEX NAME="querykey_ix" UNIQUE="false" FIELDS="access,querykey"/>
+      </INDEXES>
+    </TABLE>
+  </TABLES>
+</XMLDB>

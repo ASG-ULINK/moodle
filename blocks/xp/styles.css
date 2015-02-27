@@ -1,0 +1,132 @@
+.block_xp .current-level {
+    margin: 10px auto;
+    text-align: center;
+    font-size: 4em;
+    height: 100px;
+    width: 100px;
+    color: #fff;
+    line-height: 110px;
+    background: url([[pix:block_xp|10]]) no-repeat;
+}
+
+.block_xp .level-1 {
+    background-image: url([[pix:block_xp|1]]);
+}
+.block_xp .level-2 {
+    background-image: url([[pix:block_xp|2]]);
+}
+.block_xp .level-3 {
+    background-image: url([[pix:block_xp|3]]);
+}
+.block_xp .level-4 {
+    background-image: url([[pix:block_xp|4]]);
+}
+.block_xp .level-5 {
+    background-image: url([[pix:block_xp|5]]);
+}
+.block_xp .level-6 {
+    background-image: url([[pix:block_xp|6]]);
+}
+.block_xp .level-7 {
+    background-image: url([[pix:block_xp|7]]);
+}
+.block_xp .level-8 {
+    background-image: url([[pix:block_xp|8]]);
+}
+.block_xp .level-9 {
+    background-image: url([[pix:block_xp|9]]);
+}
+.block_xp .level-10 {
+    background-image: url([[pix:block_xp|10]]);
+}
+
+.block_xp .level-badge {
+    background: none;
+    height: auto;
+    width: auto;
+}
+.block_xp .level-badge img {
+    width: 100px;
+}
+
+.block_xp .description {
+    font-size: 0.9em;
+}
+.block_xp .footer {
+    font-size: 0.9em;
+}
+
+/** Use over defined class name to re-use it through the block pages. */
+.block_xp-level-progress {
+    margin: 0 auto;
+    max-width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    background-color: #ccc;
+    position: relative;
+    margin-bottom: 10px;
+}
+.block_xp-level-progress .bar {
+    background-color: green;
+    border-radius: 5px;
+    height: 25px;
+}
+.block_xp-level-progress .txt {
+    line-height: 25px;
+    text-align: center;
+    color: #fff;
+    font-size: 10px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+/** Using !important because of super-qualified rules to bypass. */
+.path-blocks-xp table .highlight > td{
+    background-color: #D9EDF7 !important;
+}
+
+/**
+ * Notification dialogue.
+ */
+
+.block_xp-notification-hidden {
+    display: none;
+}
+.block_xp-notification .moodle-dialogue-bd,
+.block_xp-notification .moodle-dialogue-ft {
+    text-align: center !important;
+}
+.block_xp-notification .level-headline {
+    font-size: 1.4em;
+    font-weight: bold;
+}
+.block_xp-notification .moodle-dialogue-ft button {
+    /* Helps centering the button in the dialogue */
+    margin-left: 0;
+    margin-right: 0;
+}
+
+/**
+ * Rules pages.
+ */
+#page-blocks-xp-rules .femptylabel .fitemtitle {
+    display: none;
+}
+#page-blocks-xp-rules .femptylabel .felement {
+    margin-left: 0;
+    margin-right: 0;
+}
+#page-blocks-xp-rules .felement .sortorder,
+.dir-rtl#page-blocks-xp-rules .felement .pts {
+    margin-right: 2em;
+}
+#page-blocks-xp-rules .felement .pts,
+.dir-rtl#page-blocks-xp-rules .felement .sortorder {
+    margin-left: 2em;
+    margin-right: 0;
+}
+#page-blocks-xp-rules .felement .pts:before {
+    content: ' = ';
+}
