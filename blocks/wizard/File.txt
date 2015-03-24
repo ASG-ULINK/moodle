@@ -1,0 +1,142 @@
+$mform->addElement('filepicker', 'userfile', get_string('file'), null,
+                   array('maxbytes' => $maxbytes, 'accepted_types' => '*'));
+
+
+
+
+if (isset($_POST["sub_group"])) { 
+
+	 $wizard=$_POST['wizard'];
+	 $course=$_POST['course'];
+	  $group= $_POST['group'];
+    // $group= '2';
+    
+	 $data->wizard = $wizard;
+	 $data->course = $course;
+	 $data->group = $group;
+//print_r($data);
+ $insert = "INSERT INTO mdl_assign_group_cpd (course,cpd, groups) VALUES ('".$cpd."','".$course."','".$group."')";
+//echo $insert;
+    $DB->execute($insert);
+
+
+}else{  
+    echo "";
+}
+
+
+
+  
+
+if (isset($_POST["sub_group"])) { 
+
+   $firstname=$_POST['firstname'];
+   $lastname=$_POST['lastname'];
+   $email=$_POST['email'];
+   $address= $_POST['address'];
+    $city= $_POST['city'];
+    $state= $_POST['state'];
+     $introduction= $_POST['introduction'];
+      
+       $file =$_FILES['file']['name'];
+       
+       $target_file=((111,999999).$_FILES['file']['name']);
+
+       move_uploaded_file($_FILES['file']['tmp_name'], $target_file));
+
+       
+      // $group= '2';
+    
+   $data->firstname = $firstname;
+   $data->lastname = $lastname;
+   $data->email = $email;
+    $data->address = $address;
+    $data->city = $city;
+    $data->state = $state;
+    $data->introduction= $introduction;
+
+
+  // print_r($data);
+  $insert = "INSERT INTO mdl_assign_group_wizard(firstname,lastname,email,address,city,state,introduction,userfile) VALUES ('".$firstname."','".$lastname."','".$email."','".$email."','".$address."','".$city."','".$state."','".$introduction."','".$target_file."',)";
+echo $insert;
+    $DB->execute($insert);
+
+
+}else{  
+    echo "Data INSERT";
+}
+
+
+
+<FIELD NAME="userfile" TYPE="text" NOTNULL="true" SEQUENCE="false"/>
+
+
+// <form name="assignwizard" action="" method="post" id="assignwizard">
+     $mform->addElement('text', 'ausers', 'First Name :', $wizard);
+
+    
+    $mform->addRule('wizardid', 'Missing wizard Name', 'required', null, 'server');
+    $mform->addElement('text', 'firstname', 'First Name :', $wizard);  
+     $mform->addElement('text', 'lastname', 'Last Name :', $wizard1);  
+     $mform->addElement('text', 'email', 'Email :', $wizard2);
+     $mform->addElement('text', 'address', 'Address :', $wizard3);
+     $mform->addElement('text', 'city', 'City:', $wizard4);
+     $mform->addElement('text', 'state', 'State:', $wizard5); 
+      $mform->addElement('textarea', 'introduction', get_string("introtext", "survey"), 'wrap="virtual" rows="5" cols="30"');
+
+$mform->addElement('filepicker', 'userfile', get_string('file'), null,array('maxbytes' => $maxbytes, 'accepted_types' => '*')); 
+ 
+
+<?php
+
+
+require_once('../../config.php');
+global $CFG, $PAGE;
+
+$PAGE->set_context(context_system::instance());
+$PAGE->set_pagelayout('standard');
+$PAGE->set_title('Form name');
+$PAGE->set_heading('Form name');
+$PAGE->set_url($CFG->wwwroot.'/local/yourform/index.php');
+echo $OUTPUT->header();
+
+?>
+
+<form method="post" action="post.php">
+    ... Your form code goes here
+</form>
+
+<?php
+
+... Your PHP data handling code
+
+echo $OUTPUT->footer();
+
+?>
+
+
+
+
+/moodleform is defined in formslib.php
+require_once("$CFG->libdir/formslib.php");
+ 
+class simplehtml_form extends moodleform {
+    //Add elements to form
+    public function definition() {
+        global $CFG;
+ 
+        $mform = $this->_form; // Don't forget the underscore! 
+ 
+        $mform->addElement('text', 'email', get_string('email')); // Add elements to your form
+        $mform->setType('email', PARAM_NOTAGS);                   //Set type of element
+        $mform->setDefault('email', 'Please enter email');        //Default value
+            ...
+    }
+    //Custom validation should be added here
+    function validation($data, $files) {
+        return array();
+    }
+}
+
+
+$DB->insert_record([table], $obj) not inserting all data from $obj?

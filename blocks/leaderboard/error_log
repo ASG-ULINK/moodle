@@ -1,0 +1,52 @@
+[23-Mar-2015 14:15:01 UTC] PHP Warning:  Missing argument 1 for moodle_page::set_pagelayout(), called in /home/gcitizen/public_html/candy/blocks/leaderboard/leaderboard.php on line 48 and defined in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1082
+[23-Mar-2015 14:15:01 UTC] PHP Notice:  Undefined variable: pagelayout in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1086
+[23-Mar-2015 14:15:01 UTC] Default exception handler: Coding error detected, it must be fixed by a programmer: Invalid string identifier. The identifier cannot be empty. Please fix your get_string() call. Debug: 32767
+Error code: codingerror
+* line 6923 of /lib/moodlelib.php: coding_exception thrown
+* line 37 of /blocks/leaderboard/block_leaderboard.php: call to get_string()
+* line 708 of /blocks/moodleblock.class.php: call to block_leaderboard->get_content()
+* line 230 of /blocks/moodleblock.class.php: call to block_list->formatted_contents()
+* line 962 of /lib/blocklib.php: call to block_base->get_content_for_output()
+* line 1014 of /lib/blocklib.php: call to block_manager->create_block_contents()
+* line 392 of /lib/outputrenderers.php: call to block_manager->ensure_content_created()
+* line 56 of /theme/bcu/layout/includes/header.php: call to core_renderer->standard_head_html()
+* line 27 of /theme/bcu/layout/columns2.php: call to require_once()
+* line 915 of /lib/outputrenderers.php: call to include()
+* line 845 of /lib/outputrenderers.php: call to core_renderer->render_page_layout()
+* line ? of unknownfile: call to core_renderer->header()
+* line 1649 of /lib/setuplib.php: call to call_user_func_array()
+* line 54 of /blocks/leaderboard/leaderboard.php: call to bootstrap_renderer->__call()
+* line 54 of /blocks/leaderboard/leaderboard.php: call to bootstrap_renderer->header()
+
+[23-Mar-2015 14:15:06 UTC] PHP Warning:  Missing argument 1 for moodle_page::set_pagelayout(), called in /home/gcitizen/public_html/candy/blocks/leaderboard/leaderboard.php on line 48 and defined in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1082
+[23-Mar-2015 14:15:06 UTC] PHP Notice:  Undefined variable: pagelayout in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1086
+[23-Mar-2015 14:15:06 UTC] Default exception handler: Coding error detected, it must be fixed by a programmer: Invalid string identifier. The identifier cannot be empty. Please fix your get_string() call. Debug: 32767
+Error code: codingerror
+* line 6923 of /lib/moodlelib.php: coding_exception thrown
+* line 37 of /blocks/leaderboard/block_leaderboard.php: call to get_string()
+* line 708 of /blocks/moodleblock.class.php: call to block_leaderboard->get_content()
+* line 230 of /blocks/moodleblock.class.php: call to block_list->formatted_contents()
+* line 962 of /lib/blocklib.php: call to block_base->get_content_for_output()
+* line 1014 of /lib/blocklib.php: call to block_manager->create_block_contents()
+* line 392 of /lib/outputrenderers.php: call to block_manager->ensure_content_created()
+* line 56 of /theme/bcu/layout/includes/header.php: call to core_renderer->standard_head_html()
+* line 27 of /theme/bcu/layout/columns2.php: call to require_once()
+* line 915 of /lib/outputrenderers.php: call to include()
+* line 845 of /lib/outputrenderers.php: call to core_renderer->render_page_layout()
+* line ? of unknownfile: call to core_renderer->header()
+* line 1649 of /lib/setuplib.php: call to call_user_func_array()
+* line 54 of /blocks/leaderboard/leaderboard.php: call to bootstrap_renderer->__call()
+* line 54 of /blocks/leaderboard/leaderboard.php: call to bootstrap_renderer->header()
+
+[23-Mar-2015 14:15:15 UTC] PHP Warning:  Missing argument 1 for moodle_page::set_pagelayout(), called in /home/gcitizen/public_html/candy/blocks/leaderboard/browseleaderboard.php on line 34 and defined in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1082
+[23-Mar-2015 14:15:15 UTC] PHP Notice:  Undefined variable: pagelayout in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1086
+[23-Mar-2015 14:15:15 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/gcitizen/public_html/candy/blocks/leaderboard/browseleaderboard.php on line 99
+[23-Mar-2015 14:15:18 UTC] PHP Warning:  Missing argument 1 for moodle_page::set_pagelayout(), called in /home/gcitizen/public_html/candy/blocks/leaderboard/browseleaderboard.php on line 34 and defined in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1082
+[23-Mar-2015 14:15:18 UTC] PHP Notice:  Undefined variable: pagelayout in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1086
+[23-Mar-2015 14:15:18 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/gcitizen/public_html/candy/blocks/leaderboard/browseleaderboard.php on line 99
+[23-Mar-2015 14:15:25 UTC] PHP Warning:  Missing argument 1 for moodle_page::set_pagelayout(), called in /home/gcitizen/public_html/candy/blocks/leaderboard/browseleaderboard.php on line 34 and defined in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1082
+[23-Mar-2015 14:15:25 UTC] PHP Notice:  Undefined variable: pagelayout in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1086
+[23-Mar-2015 14:15:25 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/gcitizen/public_html/candy/blocks/leaderboard/browseleaderboard.php on line 99
+[23-Mar-2015 14:15:32 UTC] PHP Warning:  Missing argument 1 for moodle_page::set_pagelayout(), called in /home/gcitizen/public_html/candy/blocks/leaderboard/browseleaderboard.php on line 34 and defined in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1082
+[23-Mar-2015 14:15:32 UTC] PHP Notice:  Undefined variable: pagelayout in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1086
+[23-Mar-2015 14:15:33 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/gcitizen/public_html/candy/blocks/leaderboard/browseleaderboard.php on line 99
