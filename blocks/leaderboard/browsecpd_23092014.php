@@ -3,7 +3,7 @@
 require('../../config.php');
 require_once("$CFG->dirroot/lib/filelib.php");
 require_once("$CFG->dirroot/repository/lib.php");
-require_once("$CFG->dirroot/blocks/cpd/cpd_form.php");
+require_once("$CFG->dirroot/blocks/leaderboard/leaderboard_form.php");
 
 require_login();
 if (isguestuser()) {
@@ -22,12 +22,12 @@ if (empty($returnurl)) {
 $context = get_context_instance(CONTEXT_USER, $USER->id);
 require_capability('moodle/user:manageownfiles', $context);
 
-	$title = get_string('browsecpd', 'block_cpd');
+	$title = get_string('browseleaderboard', 'block_leaderboard');
 
 
 $struser = get_string('user');
 
-$PAGE->set_url('/blocks/cpd/browsecpd.php');
+$PAGE->set_url('/blocks/leaderboard/browseleaderboard.php');
 $PAGE->set_context($context);
 $PAGE->set_title($title);
 $PAGE->set_heading($title);
@@ -43,13 +43,13 @@ echo $OUTPUT->header();
 //echo $OUTPUT->box_start('generalbox');
 
 
-echo $OUTPUT->heading(get_string('browsecpd', 'block_cpd'), 2, 'headingblock header');
+echo $OUTPUT->heading(get_string('browseleaderboard', 'block_leaderboard'), 2, 'headingblock header');
 
 
 
 
 
-$query = "select bc.*, c.fullname, c.summary from {block_cpd} as bc join {cpd} as c on c.id=bc.cpdid order by bc.id DESC";
+$query = "select bc.*, c.fullname, c.summary from {block_leaderboard} as bc join {leaderboard} as c on c.id=bc.leaderboardid order by bc.id DESC";
 
 
 
@@ -94,7 +94,7 @@ echo "<table width='100%'>";
 					echo "<tr style='background: none repeat scroll 0 0 #efefef'>";
 
 
-						echo "<th><b>cpd</b></th>";
+						echo "<th><b>leaderboard</b></th>";
 
 
 						echo "<th><b>Description</b></th>";
@@ -127,16 +127,16 @@ echo "<table width='100%'>";
 
 						echo $columnStarts . $partner->summary . $columnEnds;
 						
-						echo $columnStarts . '<a href="javascript:void(0)" onclick="window.open(\''.$CFG->wwwroot.'/blocks/cpd/view-widget.php?id='.$partner->id.'\',\'widget\', \'width=265,height=380\')"><img height="10px" src="'.$CFG->wwwroot.'/blocks/cpd/images/icons/widget.png"'.'"/></a>' . $columnEnds;
+						echo $columnStarts . '<a href="javascript:void(0)" onclick="window.open(\''.$CFG->wwwroot.'/blocks/leaderboard/view-widget.php?id='.$partner->id.'\',\'widget\', \'width=265,height=380\')"><img height="10px" src="'.$CFG->wwwroot.'/blocks/leaderboard/images/icons/widget.png"'.'"/></a>' . $columnEnds;
 
 
 						echo $columnStarts . $partner->price . $columnEnds;
 						
 
-						echo $columnStarts . '<a href="'.$CFG->wwwroot.'/blocks/cpd/cpd.php?id='.$partner->id.'"><img height="10px" src="'.$CFG->wwwroot.'/blocks/cpd/images/icons/edit.png"/></a>' . $columnEnds;
+						echo $columnStarts . '<a href="'.$CFG->wwwroot.'/blocks/leaderboard/leaderboard.php?id='.$partner->id.'"><img height="10px" src="'.$CFG->wwwroot.'/blocks/leaderboard/images/icons/edit.png"/></a>' . $columnEnds;
 
 
-						echo $columnStarts . '<a href="'.$CFG->wwwroot.'/blocks/cpd/cpd.php?id='.$partner->id.'&select=1"><img height="10px" src="'.$CFG->wwwroot.'/blocks/cpd/images/icons/delete.png"/></a>' . $columnEnds;
+						echo $columnStarts . '<a href="'.$CFG->wwwroot.'/blocks/leaderboard/leaderboard.php?id='.$partner->id.'&select=1"><img height="10px" src="'.$CFG->wwwroot.'/blocks/leaderboard/images/icons/delete.png"/></a>' . $columnEnds;
 
 
 						echo "</tr>";

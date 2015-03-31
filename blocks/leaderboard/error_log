@@ -50,3 +50,37 @@ Error code: codingerror
 [23-Mar-2015 14:15:32 UTC] PHP Warning:  Missing argument 1 for moodle_page::set_pagelayout(), called in /home/gcitizen/public_html/candy/blocks/leaderboard/browseleaderboard.php on line 34 and defined in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1082
 [23-Mar-2015 14:15:32 UTC] PHP Notice:  Undefined variable: pagelayout in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1086
 [23-Mar-2015 14:15:33 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/gcitizen/public_html/candy/blocks/leaderboard/browseleaderboard.php on line 99
+[30-Mar-2015 14:23:55 UTC] PHP Warning:  Missing argument 1 for moodle_page::set_pagelayout(), called in /home/gcitizen/public_html/candy/blocks/leaderboard/download.php on line 40 and defined in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1082
+[30-Mar-2015 14:23:55 UTC] PHP Notice:  Undefined variable: pagelayout in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1086
+[30-Mar-2015 14:23:55 UTC] PHP Warning:  Missing argument 1 for moodle_page::set_pagelayout(), called in /home/gcitizen/public_html/candy/blocks/leaderboard/download.php on line 78 and defined in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1082
+[30-Mar-2015 14:23:55 UTC] PHP Notice:  Undefined variable: pagelayout in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1086
+[30-Mar-2015 14:23:55 UTC] PHP Notice:  Undefined index: Score in /home/gcitizen/public_html/candy/blocks/leaderboard/download.php on line 266
+[30-Mar-2015 14:23:55 UTC] PHP Notice:  Undefined variable: reporting_sql in /home/gcitizen/public_html/candy/blocks/leaderboard/download.php on line 284
+[30-Mar-2015 14:23:55 UTC] PHP Notice:  Undefined variable: reporting_sql in /home/gcitizen/public_html/candy/blocks/leaderboard/download.php on line 286
+[30-Mar-2015 14:23:55 UTC] PHP Warning:  mysqli::query(): Empty query in /home/gcitizen/public_html/candy/lib/dml/mysqli_native_moodle_database.php on line 1018
+[30-Mar-2015 14:23:55 UTC] Default exception handler: Error reading from database Debug: 
+
+[array (
+)]
+Error code: dmlreadexception
+* line 443 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1019 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 286 of /blocks/leaderboard/download.php: call to mysqli_native_moodle_database->get_recordset_sql()
+
+[30-Mar-2015 14:25:38 UTC] PHP Warning:  Missing argument 1 for moodle_page::set_pagelayout(), called in /home/gcitizen/public_html/candy/blocks/leaderboard/download.php on line 40 and defined in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1082
+[30-Mar-2015 14:25:40 UTC] PHP Notice:  Undefined variable: pagelayout in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1086
+[30-Mar-2015 14:25:40 UTC] PHP Warning:  Missing argument 1 for moodle_page::set_pagelayout(), called in /home/gcitizen/public_html/candy/blocks/leaderboard/download.php on line 78 and defined in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1082
+[30-Mar-2015 14:25:40 UTC] PHP Notice:  Undefined variable: pagelayout in /home/gcitizen/public_html/candy/lib/pagelib.php on line 1086
+[30-Mar-2015 14:25:40 UTC] PHP Notice:  Undefined index: Score in /home/gcitizen/public_html/candy/blocks/leaderboard/download.php on line 266
+[30-Mar-2015 14:25:40 UTC] PHP Notice:  Undefined variable: reporting_sql in /home/gcitizen/public_html/candy/blocks/leaderboard/download.php on line 284
+[30-Mar-2015 14:25:40 UTC] PHP Notice:  Undefined variable: reporting_sql in /home/gcitizen/public_html/candy/blocks/leaderboard/download.php on line 286
+[30-Mar-2015 14:25:40 UTC] PHP Warning:  mysqli::query(): Empty query in /home/gcitizen/public_html/candy/lib/dml/mysqli_native_moodle_database.php on line 1018
+[30-Mar-2015 14:25:40 UTC] Default exception handler: Error reading from database Debug: 
+
+[array (
+)]
+Error code: dmlreadexception
+* line 443 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1019 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 286 of /blocks/leaderboard/download.php: call to mysqli_native_moodle_database->get_recordset_sql()
+

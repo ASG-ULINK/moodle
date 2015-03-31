@@ -1,15 +1,19 @@
 <?php
-class block_leaderboard extends block_list {
-    public function init() {
+class block_leaderboard extends block_list
+ {
+    public function init()
+	 {
         $this->title = get_string('pluginname', 'block_leaderboard');
-    }
+     }
     // The PHP tag and the curly bracket for the class definition 
     // will only be closed after there is another function added in the next section.
     
-    public function get_content() {
+    public function get_content()
+   {
     	
-    	global $CFG, $OUTPUT, $DB, $USER;
-    if ($this->content !== null) {
+    global $CFG, $OUTPUT, $DB, $USER;
+    if ($this->content !== null) 
+	{
       return $this->content;
     }
     
@@ -36,7 +40,7 @@ class block_leaderboard extends block_list {
     $groupassignleaderboardurl = new moodle_url('/blocks/leaderboard/assignleaderboard.php'); 
     $icon = '<br /><img src="'.$CFG->wwwroot.'/blocks/leaderboard/images/icons/1.png" height="18" width="18" alt="'.get_string('Group Assign leaderboard').'" />'.$OUTPUT->spacer($spacer);  
     $this->content->items[] = html_writer::tag('a', 'Group Assign leaderboard', array('href' => $groupassignleaderboardurl));  $this->content->icons[] = $icon;
- 
     return $this->content;
   }
 }   // Here's the closing bracket for the class definition
+

@@ -34,7 +34,7 @@ else{
 
 if(!empty($id)) {
 	
-	$title = 'Edit Leaderboard details';
+	$title = 'Edit leaderboard details';
 } else {
 	$title = get_string('leaderboard', 'block_leaderboard');
 }

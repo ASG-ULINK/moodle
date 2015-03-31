@@ -43,7 +43,7 @@ $widget = $DB->get_record('block_addpartner', array('id'=>$id), '*');
 			<tr><td></td></tr>
 			<tr>
 				<td>
-					<fieldset style="padding:0px;margin:0px;border-radius:5px;"><legend><a href="javascript:void(0);" style="font-size:12px;font-weight:bold;color:#355435;text-decoration:none" onclick="$('#code').select();">Copy Code</a></legend>
+					<fieldset style="padding:0px;margin:0px;border-radius:5px;"><legend><a href="javascript:void(0);" style="font-size:12px;font-weight:bold;color:#355435;text-decoration:none" onClick="$('#code').select();">Copy Code</a></legend>
 						<table>
 							<tr>
 								<td>

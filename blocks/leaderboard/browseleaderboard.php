@@ -38,7 +38,8 @@ echo $OUTPUT->header();
 echo $OUTPUT->heading(get_string('browseleaderboard', 'block_leaderboard'), 2, 'headingblock header');
 
 $leaderboard_records = $DB->get_records('lead_table', array('status' => '0'));
-//$leaderboard_records = $DB->get_record_sql('SELECT name, score, description FROM {lead_table} ORDER BY score DESC');
+//$leaderboard_records = $DB->get_records_sql("SELECT id,name, score, description FROM mdl_lead_table");
+
 $columnStarts = "<td  style='border-width:0px 0px 1px 0px; border:0px 0px 1px 0px solid;border-color:#dbdfe7'>";
 $columnEnds = "</td>";
 echo "<style>th{text-align:left !important;}</style>";

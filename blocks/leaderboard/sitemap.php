@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://candy.gcitizen.net/</loc>
+  <lastmod>2015-03-24T07:56:22+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1422748800</loc>
+  <lastmod>2015-03-24T07:56:25+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1427183782&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1427846400</loc>
+  <lastmod>2015-03-24T07:56:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/mod/forum/search.php?id=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/help.php?component=moodle&amp;identifier=search&amp;lang=en</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/mod/forum/view.php?id=72</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/blocks/leaderboard/leaderboard.php</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/blocks/leaderboard/browseleaderboard.php</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/blocks/leaderboard/assignleaderboard.php</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/blocks/wizard/wizard.php</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/blocks/wizard/assignwizard.php</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/course/index.php</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/login/forgot_password.php</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/help.php?component=moodle&amp;identifier=cookiesenabled&amp;lang=en</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1420070400</loc>
+  <lastmod>2015-03-24T07:56:41+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1422748800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1425168000</loc>
+  <lastmod>2015-03-24T07:56:43+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1422748800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1427846400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1427846400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1430438400</loc>
+  <lastmod>2015-03-24T07:56:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/mod/forum/index.php?id=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1417392000</loc>
+  <lastmod>2015-03-24T07:56:49+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1420070400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1420070400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1425168000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1425168000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1430438400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1430438400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1433116800</loc>
+  <lastmod>2015-03-24T07:56:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/mod/forum/view.php?f=11</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1414800000</loc>
+  <lastmod>2015-03-24T07:56:58+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1417392000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1417392000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1433116800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1433116800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1435708800</loc>
+  <lastmod>2015-03-24T07:57:07+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1412121600</loc>
+  <lastmod>2015-03-24T07:57:07+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1414800000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1414800000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1435708800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1435708800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1438387200</loc>
+  <lastmod>2015-03-24T07:57:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1409529600</loc>
+  <lastmod>2015-03-24T07:57:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1412121600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1412121600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1438387200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1438387200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1441065600</loc>
+  <lastmod>2015-03-24T07:57:22+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1406851200</loc>
+  <lastmod>2015-03-24T07:57:23+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1409529600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1409529600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1441065600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1441065600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1443657600</loc>
+  <lastmod>2015-03-24T07:57:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1404172800</loc>
+  <lastmod>2015-03-24T07:57:30+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1406851200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1406851200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1443657600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1443657600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1446336000</loc>
+  <lastmod>2015-03-24T07:57:37+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1401580800</loc>
+  <lastmod>2015-03-24T07:57:38+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1404172800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1404172800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1446336000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1446336000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1448928000</loc>
+  <lastmod>2015-03-24T07:57:48+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1398902400</loc>
+  <lastmod>2015-03-24T07:57:49+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1401580800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1401580800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1448928000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1448928000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1451606400</loc>
+  <lastmod>2015-03-24T07:57:56+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1396310400</loc>
+  <lastmod>2015-03-24T07:57:56+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1398902400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1398902400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1451606400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1451606400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1454284800</loc>
+  <lastmod>2015-03-24T07:58:03+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1393632000</loc>
+  <lastmod>2015-03-24T07:58:04+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1396310400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1396310400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1454284800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1454284800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1456790400</loc>
+  <lastmod>2015-03-24T07:58:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1391212800</loc>
+  <lastmod>2015-03-24T07:58:12+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1393632000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1393632000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1456790400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1456790400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1459468800</loc>
+  <lastmod>2015-03-24T07:58:18+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1388534400</loc>
+  <lastmod>2015-03-24T07:58:19+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1391212800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1391212800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1459468800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1459468800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1462060800</loc>
+  <lastmod>2015-03-24T07:58:26+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1385856000</loc>
+  <lastmod>2015-03-24T07:58:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1388534400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1388534400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1462060800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1462060800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1464739200</loc>
+  <lastmod>2015-03-24T07:58:33+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1383264000</loc>
+  <lastmod>2015-03-24T07:58:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1385856000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1385856000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1464739200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1464739200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1467331200</loc>
+  <lastmod>2015-03-24T07:58:41+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1380585600</loc>
+  <lastmod>2015-03-24T07:58:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1383264000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1383264000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1467331200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1467331200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1470009600</loc>
+  <lastmod>2015-03-24T07:58:48+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1377993600</loc>
+  <lastmod>2015-03-24T07:58:49+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1380585600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1380585600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1470009600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1470009600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1472688000</loc>
+  <lastmod>2015-03-24T07:58:56+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1375315200</loc>
+  <lastmod>2015-03-24T07:58:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1377993600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1377993600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1472688000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1472688000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1475280000</loc>
+  <lastmod>2015-03-24T07:59:04+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1372636800</loc>
+  <lastmod>2015-03-24T07:59:05+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1375315200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1375315200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1475280000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1475280000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1477958400</loc>
+  <lastmod>2015-03-24T07:59:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1370044800</loc>
+  <lastmod>2015-03-24T07:59:12+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1372636800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1372636800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1477958400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1477958400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1480550400</loc>
+  <lastmod>2015-03-24T07:59:19+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1367366400</loc>
+  <lastmod>2015-03-24T07:59:20+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1370044800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1370044800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1480550400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1480550400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1483228800</loc>
+  <lastmod>2015-03-24T07:59:26+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1364774400</loc>
+  <lastmod>2015-03-24T07:59:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1367366400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1367366400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1483228800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1483228800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1485907200</loc>
+  <lastmod>2015-03-24T07:59:35+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1362096000</loc>
+  <lastmod>2015-03-24T07:59:36+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1364774400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1364774400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1485907200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1485907200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1488326400</loc>
+  <lastmod>2015-03-24T07:59:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1359676800</loc>
+  <lastmod>2015-03-24T07:59:43+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1362096000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1362096000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1488326400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1488326400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1491004800</loc>
+  <lastmod>2015-03-24T07:59:50+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1356998400</loc>
+  <lastmod>2015-03-24T07:59:51+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1359676800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1359676800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1491004800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1491004800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1493596800</loc>
+  <lastmod>2015-03-24T07:59:58+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1354320000</loc>
+  <lastmod>2015-03-24T07:59:58+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1356998400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1356998400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1493596800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1493596800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1496275200</loc>
+  <lastmod>2015-03-24T08:00:05+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1351728000</loc>
+  <lastmod>2015-03-24T08:00:06+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1354320000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1354320000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1496275200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1496275200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1498867200</loc>
+  <lastmod>2015-03-24T08:00:13+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1349049600</loc>
+  <lastmod>2015-03-24T08:00:14+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1351728000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1351728000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1498867200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1498867200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1501545600</loc>
+  <lastmod>2015-03-24T08:00:20+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1346457600</loc>
+  <lastmod>2015-03-24T08:00:21+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1349049600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1349049600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1501545600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1501545600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1504224000</loc>
+  <lastmod>2015-03-24T08:00:28+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1343779200</loc>
+  <lastmod>2015-03-24T08:00:29+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1346457600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1346457600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1504224000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1504224000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1506816000</loc>
+  <lastmod>2015-03-24T08:00:36+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1341100800</loc>
+  <lastmod>2015-03-24T08:00:37+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1343779200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1343779200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1506816000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1506816000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1509494400</loc>
+  <lastmod>2015-03-24T08:00:44+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1338508800</loc>
+  <lastmod>2015-03-24T08:00:45+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1341100800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1341100800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1509494400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1509494400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1512086400</loc>
+  <lastmod>2015-03-24T08:00:52+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1335830400</loc>
+  <lastmod>2015-03-24T08:00:53+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1338508800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1338508800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1512086400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1512086400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1514764800</loc>
+  <lastmod>2015-03-24T08:00:59+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1333238400</loc>
+  <lastmod>2015-03-24T08:01:00+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1335830400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1335830400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1514764800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1514764800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1517443200</loc>
+  <lastmod>2015-03-24T08:01:08+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1330560000</loc>
+  <lastmod>2015-03-24T08:01:09+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1333238400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1333238400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1517443200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1517443200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1519862400</loc>
+  <lastmod>2015-03-24T08:01:16+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1328054400</loc>
+  <lastmod>2015-03-24T08:01:17+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1330560000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1330560000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1519862400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1519862400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1522540800</loc>
+  <lastmod>2015-03-24T08:01:24+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1325376000</loc>
+  <lastmod>2015-03-24T08:01:25+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1328054400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1328054400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1522540800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1522540800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1525132800</loc>
+  <lastmod>2015-03-24T08:01:33+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1322697600</loc>
+  <lastmod>2015-03-24T08:01:33+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1325376000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1325376000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1525132800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1525132800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1527811200</loc>
+  <lastmod>2015-03-24T08:01:40+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1320105600</loc>
+  <lastmod>2015-03-24T08:01:41+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1322697600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1322697600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1527811200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1527811200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1530403200</loc>
+  <lastmod>2015-03-24T08:01:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1317427200</loc>
+  <lastmod>2015-03-24T08:01:48+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1320105600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1320105600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1530403200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1530403200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1533081600</loc>
+  <lastmod>2015-03-24T08:01:55+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1314835200</loc>
+  <lastmod>2015-03-24T08:01:56+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1317427200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1317427200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1533081600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1533081600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1535760000</loc>
+  <lastmod>2015-03-24T08:02:03+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1312156800</loc>
+  <lastmod>2015-03-24T08:02:04+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1314835200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1314835200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1535760000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1535760000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1538352000</loc>
+  <lastmod>2015-03-24T08:02:10+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1309478400</loc>
+  <lastmod>2015-03-24T08:02:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1312156800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1312156800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1538352000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1538352000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1541030400</loc>
+  <lastmod>2015-03-24T08:02:18+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1306886400</loc>
+  <lastmod>2015-03-24T08:02:19+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1309478400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1309478400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1541030400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1541030400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1543622400</loc>
+  <lastmod>2015-03-24T08:02:26+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1304208000</loc>
+  <lastmod>2015-03-24T08:02:26+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1306886400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1306886400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1543622400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1543622400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1546300800</loc>
+  <lastmod>2015-03-24T08:02:33+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1301616000</loc>
+  <lastmod>2015-03-24T08:02:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1304208000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1304208000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1546300800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1546300800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1548979200</loc>
+  <lastmod>2015-03-24T08:02:40+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1298937600</loc>
+  <lastmod>2015-03-24T08:02:41+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1301616000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1301616000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1548979200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1548979200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1551398400</loc>
+  <lastmod>2015-03-24T08:02:48+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1296518400</loc>
+  <lastmod>2015-03-24T08:02:48+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1298937600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1298937600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1551398400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1551398400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1554076800</loc>
+  <lastmod>2015-03-24T08:02:55+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1293840000</loc>
+  <lastmod>2015-03-24T08:02:55+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1296518400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1296518400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1554076800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1554076800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1556668800</loc>
+  <lastmod>2015-03-24T08:03:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1291161600</loc>
+  <lastmod>2015-03-24T08:03:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1293840000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1293840000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1556668800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1556668800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1559347200</loc>
+  <lastmod>2015-03-24T08:03:09+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1288569600</loc>
+  <lastmod>2015-03-24T08:03:10+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1291161600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1291161600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1559347200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1559347200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1561939200</loc>
+  <lastmod>2015-03-24T08:03:17+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1285891200</loc>
+  <lastmod>2015-03-24T08:03:18+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1288569600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1288569600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1561939200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1561939200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1564617600</loc>
+  <lastmod>2015-03-24T08:03:24+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1283299200</loc>
+  <lastmod>2015-03-24T08:03:25+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1285891200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1285891200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1564617600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1564617600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1567296000</loc>
+  <lastmod>2015-03-24T08:03:32+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1280620800</loc>
+  <lastmod>2015-03-24T08:03:32+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1283299200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1283299200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1567296000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1567296000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1569888000</loc>
+  <lastmod>2015-03-24T08:03:43+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1277942400</loc>
+  <lastmod>2015-03-24T08:03:44+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1280620800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1280620800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1569888000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1569888000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1572566400</loc>
+  <lastmod>2015-03-24T08:03:50+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1275350400</loc>
+  <lastmod>2015-03-24T08:03:51+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1277942400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1277942400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1572566400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1572566400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1575158400</loc>
+  <lastmod>2015-03-24T08:03:58+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1272672000</loc>
+  <lastmod>2015-03-24T08:03:58+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1275350400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1275350400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1575158400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1575158400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/mod/imscp/view.php?id=73</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1577836800</loc>
+  <lastmod>2015-03-24T08:04:06+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1270080000</loc>
+  <lastmod>2015-03-24T08:04:07+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1272672000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1272672000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1577836800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1577836800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1580515200</loc>
+  <lastmod>2015-03-24T08:05:19+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1267401600</loc>
+  <lastmod>2015-03-24T08:05:20+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1270080000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1270080000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1580515200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1580515200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1583020800</loc>
+  <lastmod>2015-03-24T08:05:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1264982400</loc>
+  <lastmod>2015-03-24T08:05:27+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1267401600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1267401600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1583020800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1583020800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1585699200</loc>
+  <lastmod>2015-03-24T08:05:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1262304000</loc>
+  <lastmod>2015-03-24T08:05:34+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1264982400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1264982400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1585699200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1585699200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1588291200</loc>
+  <lastmod>2015-03-24T08:05:40+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1259625600</loc>
+  <lastmod>2015-03-24T08:05:41+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1262304000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1262304000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1588291200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1588291200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1590969600</loc>
+  <lastmod>2015-03-24T08:05:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1257033600</loc>
+  <lastmod>2015-03-24T08:05:48+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1259625600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1259625600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1590969600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1590969600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1593561600</loc>
+  <lastmod>2015-03-24T08:05:54+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1254355200</loc>
+  <lastmod>2015-03-24T08:05:55+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1257033600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1257033600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1593561600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1593561600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1596240000</loc>
+  <lastmod>2015-03-24T08:06:01+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1251763200</loc>
+  <lastmod>2015-03-24T08:06:02+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1254355200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1254355200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1596240000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1596240000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1598918400</loc>
+  <lastmod>2015-03-24T08:06:08+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1249084800</loc>
+  <lastmod>2015-03-24T08:06:09+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1251763200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1251763200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1598918400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1598918400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1601510400</loc>
+  <lastmod>2015-03-24T08:06:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1246406400</loc>
+  <lastmod>2015-03-24T08:06:16+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1249084800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1249084800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1601510400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1601510400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1604188800</loc>
+  <lastmod>2015-03-24T08:06:22+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1243814400</loc>
+  <lastmod>2015-03-24T08:06:23+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1246406400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1246406400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1604188800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1604188800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1606780800</loc>
+  <lastmod>2015-03-24T08:06:36+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1241136000</loc>
+  <lastmod>2015-03-24T08:06:36+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1243814400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1243814400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1606780800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1606780800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1609459200</loc>
+  <lastmod>2015-03-24T08:06:43+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1238544000</loc>
+  <lastmod>2015-03-24T08:06:43+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1241136000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1241136000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1609459200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1609459200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1612137600</loc>
+  <lastmod>2015-03-24T08:06:50+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1235865600</loc>
+  <lastmod>2015-03-24T08:06:51+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1238544000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1238544000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1612137600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1612137600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1614556800</loc>
+  <lastmod>2015-03-24T08:06:57+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1233446400</loc>
+  <lastmod>2015-03-24T08:06:58+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1235865600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1235865600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1614556800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1614556800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1617235200</loc>
+  <lastmod>2015-03-24T08:07:04+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1230768000</loc>
+  <lastmod>2015-03-24T08:07:05+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1233446400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1233446400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1617235200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1617235200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1619827200</loc>
+  <lastmod>2015-03-24T08:07:11+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1228089600</loc>
+  <lastmod>2015-03-24T08:07:12+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1230768000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1230768000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1619827200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1619827200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1622505600</loc>
+  <lastmod>2015-03-24T08:07:18+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1225497600</loc>
+  <lastmod>2015-03-24T08:07:19+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1228089600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1228089600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1622505600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1622505600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1625097600</loc>
+  <lastmod>2015-03-24T08:07:25+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1222819200</loc>
+  <lastmod>2015-03-24T08:07:26+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1225497600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1225497600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1625097600</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1625097600&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1627776000</loc>
+  <lastmod>2015-03-24T08:07:33+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1220227200</loc>
+  <lastmod>2015-03-24T08:07:33+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1222819200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1222819200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1627776000</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1627776000&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1630454400</loc>
+  <lastmod>2015-03-24T08:07:40+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1217548800</loc>
+  <lastmod>2015-03-24T08:07:40+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1220227200&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1220227200</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1630454400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1630454400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1633046400</loc>
+  <lastmod>2015-03-24T08:07:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1214870400</loc>
+  <lastmod>2015-03-24T08:07:47+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1217548800&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1217548800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1633046400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1633046400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1635724800</loc>
+  <lastmod>2015-03-24T08:07:54+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/?time=1212278400</loc>
+  <lastmod>2015-03-24T08:07:54+00:00</lastmod>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1214870400&amp;course=1</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1214870400</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;course=1&amp;time=1635724800</loc>
+</url>
+<url>
+  <loc>http://candy.gcitizen.net/calendar/view.php?view=month&amp;time=1635724800&amp;course=1</loc>
+</url>
+</urlset>
