@@ -1,0 +1,10 @@
+.block_mycoursestatus .footer { margin-top: 5px; }
+.block_mycoursestatus .content { border-left:1px dotted green; overflow:hidden; }
+.block_mycoursestatus div.cname { border:0px solid blue; overflow:hidden;  margin-left:-14px;}
+.block_mycoursestatus .mods {  border:0px solid blue; overflow:hidden; margin-left:-14px;  margin-top:2px;}
+.block_mycoursestatus .mydiv1 { float:left; background:url([[pix:block_mycoursestatus|incomplete]]); background-repeat: no-repeat; height:19px; width:100px; margin-left:3px; margin-top:3px; overflow:hidden; }
+.block_mycoursestatus .mydiv2 { float:left; background:url([[pix:block_mycoursestatus|complete]]); background-repeat: no-repeat; height:18px; color:#FFF; text-align:center; padding-top:2px; overflow:hidden; }
+.block_mycoursestatus .status { border:0px solid blue; overflow:hidden; margin-left:-14px; margin-top:4px; }
+.block_mycoursestatus .report { border:0px solid blue; overflow:hidden; margin-left:-14px; margin-top:6px; }
+.block_mycoursestatus .nostat { border:0px solid blue; overflow:hidden; margin-left:-14px; margin-top:6px; }
+.block_mycoursestatus .cnot { color:green; border-bottom:2px dotted lightgray; overflow:hidden; }

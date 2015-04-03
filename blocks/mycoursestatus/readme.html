@@ -1,0 +1,69 @@
+<html>
+ <body>
+  <div style="font-family:verdana; font-size:13px; margin:0px auto; width:1200px; padding:10px; border:1px dotted lightgray;">
+     <div style="margin-top:10px; padding:5px;">
+       <h4>Introduction</h4>
+       Mycourse Status block could be displayed in two scenarios:<br>
+       (A) inside a course page - with modules & course progress<br>
+       (B) outside a course page - with only course progress<br><br>
+       Note : Mycourse Status block will work only if activity completion for course & modules were enabled.<br>
+       <h4>Installation</h4>
+       1. Extract the folder 'moodle-block_mycoursestatus', rename to 'mycoursestatus' and copy to '/blocks' folder. <br>
+       2. Click notifications on home page to install the block.<br>
+       3. Add the block either inside a course or outside the course to check your status.
+     </div>
+
+     <div style="margin-top:0px; padding:5px;">
+       <h4>Important Settings</h4>
+       1. Enable completion tracking and conditional access in Site administration > Advanced Features.<br><br>
+       2. Navigate to Home > Site administration > Courses > Course default settings and select completion tracking to "Yes".<br>
+       <div style="margin-left:20px;">
+         or<br>
+    Do it individually for each course, Navigate to course > course-administration > edit and select completion tracking to "Yes".
+       </div><br>
+       3. Modules come up with three scenarios:<br><br>
+           <div style="margin-left:30px;">
+            (A) <u>When you do not wish to give any grade condition:</u><br>
+                <div style="margin-left:27px;">
+                  Create a module and enable activity completion for sure to know that this module is done with a blue tick mark,ex:
+                  <a href="pix/activitycompletion.png" target="_blank">
+                  <img src="pix/activitycompletion.png" width="20" height="20"/>
+                  </a>
+                </div><br>
+            (B) <u>When you wish to give a grade condition:</u><br>
+                <div style="margin-left:27px;margin-top:5px;">
+                  There are again with two ways:<br>
+                  (1) Create a module, specify a grade condition inside a module like,ex:
+                      <a href="pix/gradecond1.png" target="_blank">
+                       <img src="pix/gradecond1.png" width="20" height="20"/>
+                      </a><br>
+                  (2) Create a module, choose the activity completion condition inside a module like,ex:
+                      <a href="pix/gradecond2.png" target="_blank">
+                        <img src="pix/gradecond2.png" width="20" height="20"/>
+                      </a>
+                      <div style="margin-left:27px;margin-top:5px;">
+    and Navigate to course > course administration > Grades > click on the tab 'Categories and Items' click on edit of
+                        item and configure your grade in the column 'Grade to pass',ex:
+                        <a href="pix/gradecond3.png" target="_blank">
+                         <img src="pix/gradecond3.png" width="20" height="20"/>
+                        </a><br>
+                        Finally you get a green tickmark when passed and red cross tickmark when failed in both 1 and 2 cases.
+                      </div>
+                </div><br>
+            (C) <u>When you do not configure anything:</u><br>
+                <div style="margin-left:27px;margin-top:5px;">
+                  When you do neither of the above A and B, the block will not work and you get no tickmark
+                </div>
+           </div><br>
+       4. Coure completion:<br>
+           <div style="margin-left:30px;margin-top:10px;">
+    Navigate to Course > Course administration > Course completion > specify a grade to let us know he or she is passed or failed
+             <a href="pix/course.png" target="_blank">
+              <img src="pix/course.png" width="20" height="20"/>
+             </a><br>
+             Note : You can have other criteria settings in course completion
+           </div>
+     </div>
+  </div>
+ </body>
+</html>
